@@ -1,0 +1,9 @@
+[submodule "common"]
+	path = common
+	url = https://github.com/chengyukpong/common_action.git
+[submodule ".github/common"]
+	path = .github/common
+	url = https://github.com/chengyukpong/common_action.git
+[submodule ".github/workflows/common"]
+	path = .github/workflows/common
+	url = https://github.com/chengyukpong/common_action.git
